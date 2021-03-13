@@ -1,0 +1,4 @@
+# Weather-Journal-App
+
+
+Init
